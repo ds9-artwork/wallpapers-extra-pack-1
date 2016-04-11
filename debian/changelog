@@ -1,0 +1,11 @@
+netrunner-extra-wallpapers (1.0.1) wily; urgency=medium
+
+  * Moved wallpapers to wallpapers-extra folder
+
+ -- Leszek Lesner <leszek@zevenos.com>  Fri, 20 Nov 2015 11:12:09 +0100
+
+netrunner-extra-wallpapers (1.0.0) wily; urgency=medium
+
+  * Initial release. 
+
+ -- Leszek Lesner <leszek@zevenos.com>  Wed, 18 Nov 2015 13:00:48 +0100
