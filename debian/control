@@ -1,11 +1,11 @@
-Source: netrunner-extra-wallpapers
+Source: wallpapers-extrapack-1
 Section: admin
 Priority: optional
 Maintainer: Leszek Lesner <leszek@zevenos.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.7.2
 
-Package: netrunner-extra-wallpapers
+Package: wallpapers-extrapack-1
 Architecture: all
-Description: Extra Wallpapers for Netrunner
- Extra Wallpapers for Netrunner including several awesome ones.
+Description: Extra Wallpapers 
+ Extra Wallpapers including several awesome ones.
