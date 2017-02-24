@@ -1,2 +1,2 @@
-# netrunner-extra-wallpapers
-Extra Wallpapers for Netrunner
+# wallpapers-pack-1
+Additional Wallpapers Pack 1
